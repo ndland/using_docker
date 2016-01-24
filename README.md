@@ -1,2 +1,7 @@
-# using_docker
-Following along with the book for docker practice
+identidock
+
+==========
+
+Simple identicon server based on monsterid from Kevin Gaudin.
+
+From "Using Docker" by Adrian Mouat published by O'Reilly Media.
